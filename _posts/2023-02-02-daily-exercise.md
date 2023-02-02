@@ -1,9 +1,9 @@
 ---
 title: 운동일지
-author: cho
+author: Cho H.W.
 date: 2023-02-02 22:25:00 +0800
 categories: [Exercies, Daily]
-tags: [Squat, Deadlift]
+tags: [squat, deadlift]
 ---
 
 ###취미로 하는 운동

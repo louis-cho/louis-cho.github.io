@@ -1,6 +1,6 @@
 ---
-title: Writing a New Post
-author: cotes
+title: 새로운 글 쓰기
+author: Cho H.W.
 date: 2023-02-02 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]

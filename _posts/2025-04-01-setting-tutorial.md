@@ -1,8 +1,7 @@
 ---
 title: GitHub Pages + Jekyll + TeXt 테마로 블로그 만들기
-tags: GitHub Jekyll TeXt 블로그
+tags: github, jekyll, tutorial
 ---
-
 ## 들어가기 전에
 
 - **GitHub Pages란?**  

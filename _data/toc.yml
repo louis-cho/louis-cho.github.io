@@ -23,3 +23,8 @@
       url: "docs/extras/example-quiz"
     - title: Tags Page
       url: "tags"
+- title: New Section
+  url: docs/new-section
+  links:
+    - title: "Introduction to New Section"
+      url: "docs/new-section/introduction"

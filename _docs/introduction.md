@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "Introduction"
-permalink: docs/new-section/introduction/
+description: intro description
 ---
 
 # Introduction

@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "New Section"
-permalink: /new-section/
+description: description
 ---
 
 # Welcome to the New Section

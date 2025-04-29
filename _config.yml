@@ -24,7 +24,17 @@ version_params:
   version_menu: "Release"
   version_dir: Archive
   tocversion_dir: versions
-  versioning: false # 버전 관리 안할거면 false
+  versioning: true          # 버전 관리 안하면 false
+  latest: v1.1
+  allow_search: true
+  search_versions:
+    - v1.1
+    - v1.0
+    - v0.1
+  versions:
+    - v1.1
+    - v1.0
+    - v0.1
 
 # Footer 옵션
 feedback: true
